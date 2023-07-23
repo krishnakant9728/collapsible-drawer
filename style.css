@@ -1,0 +1,31 @@
+/* ... (previous styles) ... */
+
+.main-content {
+    margin-left: 250px;
+    padding: 20px;
+  }
+  
+  .content-search-container {
+    margin-top: 10px;
+  }
+  
+  .expand-button {
+    margin-top: 10px;
+  }
+  
+  .nested-cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .nested-card {
+    width: 120px;
+    height: 120px;
+    background-color: #eee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+  }
+  
